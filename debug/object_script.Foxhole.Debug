@@ -1,0 +1,12 @@
+debug/chooseusers.o
+debug/enterwindow.o
+debug/group.o
+debug/logic.o
+debug/main.o
+debug/mainwindow.o
+debug/registration.o
+debug/moc_chooseusers.o
+debug/moc_enterwindow.o
+debug/moc_group.o
+debug/moc_mainwindow.o
+debug/moc_registration.o

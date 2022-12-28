@@ -1,0 +1,12 @@
+release/chooseusers.o
+release/enterwindow.o
+release/group.o
+release/logic.o
+release/main.o
+release/mainwindow.o
+release/registration.o
+release/moc_chooseusers.o
+release/moc_enterwindow.o
+release/moc_group.o
+release/moc_mainwindow.o
+release/moc_registration.o
